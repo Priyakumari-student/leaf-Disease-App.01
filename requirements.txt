@@ -1,3 +1,5 @@
 streamlit==1.23.1
+tensorflow
 numpy
-pillow>=9.5.0,<10.0.0
+pillow>=9.5.0,<10
+matplotlib
