@@ -1,0 +1,11 @@
+{
+  "Apple Scab": {
+    "prevention": "Avoid wet leaves and use resistant varieties.",
+    "cure": "Apply appropriate fungicides."
+  },
+  "Black Rot": {
+    "prevention": "Prune infected parts and keep orchard clean.",
+    "cure": "Use recommended fungicides."
+  }
+  // Add more disease entries here...
+}
