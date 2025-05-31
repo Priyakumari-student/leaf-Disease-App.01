@@ -1,3 +1,7 @@
+import sys
+import streamlit as st
+
+st.write(f"Python version: {sys.version}")
 import streamlit as st
 import numpy as np
 from PIL import Image
