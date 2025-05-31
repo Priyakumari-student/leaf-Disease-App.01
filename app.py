@@ -2,6 +2,7 @@ import sys
 import streamlit as st
 
 st.write(f"Python version: {sys.version}")
+st.write(f"Streamlit version: {st._version_}")
 import streamlit as st
 import numpy as np
 from PIL import Image
