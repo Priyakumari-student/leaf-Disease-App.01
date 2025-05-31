@@ -56,8 +56,6 @@ qhKhyXYJwbcKMYgT7pPZxukd0U6Af8LdS6g5nQY1n1/VSPTIsOmQ6qmsB28a47VCkL92F
 ZedMmwB9jK9VR8ToxVTeQvJWlMdeikdjZgo3LkFf+9QvXYEG5pkXxqt+AaOpFChUC9mrk
 JGVbLbeRR+kljLtSKu+pIjrtrEN4C/YrRPAHUlRx0LB01gf7WJPiHfEVqt7iDN8L0gFZn
 pErCNFVrkYqa7NzKQ3xWWZJvSL+7J6slhJJIAg=="""
-"""
-
 @st.cache(allow_output_mutation=True)
 def load_model():
     model_bytes = base64.b64decode(model_base64)
